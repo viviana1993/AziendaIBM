@@ -1,4 +1,4 @@
-package servizi;
+package it.alfasoft.viviana.servizi;
 
 import java.util.List;
 

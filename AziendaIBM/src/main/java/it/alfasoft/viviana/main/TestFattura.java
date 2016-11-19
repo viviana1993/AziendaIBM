@@ -2,11 +2,10 @@ package it.alfasoft.viviana.main;
 
 import it.alfasoft.viviana.dao.FatturaDao;
 import it.alfasoft.viviana.model.Fattura;
+import it.alfasoft.viviana.servizi.Servizio;
 
 import java.util.Date;
 import java.util.List;
-
-import servizi.Servizio;
 
 public class TestFattura {
 
