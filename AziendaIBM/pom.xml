@@ -5,7 +5,7 @@
   <artifactId>AzienzaIBM</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>AzienzaIBM Maven Webapp</name>
+  <name>AziendaIBM Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
   
@@ -57,7 +57,7 @@
         
   </dependencies>
   <build>
-    <finalName>AzienzaIBM</finalName>
+    <finalName>AziendaIBM</finalName>
     <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
