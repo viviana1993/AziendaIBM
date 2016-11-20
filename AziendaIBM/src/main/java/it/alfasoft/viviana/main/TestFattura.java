@@ -84,10 +84,7 @@ public class TestFattura {
           JasperExportManager.exportReportToPdfStream(jasperPrint, outputStream);
 
           System.out.println("File e' stato creato");
-           
-    
-         
-          
+        
           
           
       } catch (JRException ex) {
